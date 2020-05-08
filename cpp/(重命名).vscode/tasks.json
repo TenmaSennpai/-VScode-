@@ -28,7 +28,7 @@
                 "panel": "shared"
             },
             "windows": {
-                "command": "D:/Programming/MinGW/bin/g++",
+                "command": "g++",
                 "args": [
                     "-ggdb",
                     "\"${file}\"",
